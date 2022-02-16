@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\W0785541\\Source\\Repos\\Class_Asp\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Users\\W0785541\\source\\repos\\class_asp_16\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\W0785541\\Source\\Repos\\Class_Asp\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Users\\W0785541\\source\\repos\\class_asp_16\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W0785541\\Source\\Repos\\Class_Asp\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\W0785541\\source\\repos\\class_asp_16\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\W0785541\\Source\\Repos\\Class_Asp\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\Users\\W0785541\\source\\repos\\class_asp_16\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\W0785541\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W0785541\\Source\\Repos\\Class_Asp\\MvcMovie\\obj\\",
+        "outputPath": "C:\\Users\\W0785541\\source\\repos\\class_asp_16\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\W0785541\\AppData\\Roaming\\NuGet\\NuGet.Config",
